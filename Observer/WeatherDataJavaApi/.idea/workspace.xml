@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70edda42-bbad-4e86-a78b-32b2d61454a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../WeatherData/src/com/antonydamico/display/ForecasDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherData/src/com/antonydamico/display/HeatIndexDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherData/src/com/antonydamico/display/StatisticDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/antonydamico/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/antonydamico/display/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/antonydamico/display/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/antonydamico/display/ForecasDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/antonydamico/display/HeatIndexDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/antonydamico/display/StatisticDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/antonydamico/observerpattern/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/antonydamico/observerpattern/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/antonydamico/weather/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeatherData/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WeatherData/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeatherData/src/com/antonydamico/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WeatherData/src/com/antonydamico/WeatherStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/antonydamico/observerpattern/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/antonydamico/observerpattern/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/antonydamico/weather/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/antonydamico/weather/WeatherData.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/antonydamico/WeatherStation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
-              <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,7 +28,23 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/antonydamico/weather/WeatherData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -48,6 +53,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/antonydamico/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/src/com/antonydamico/weather/WeatherData.java" />
       </list>
     </option>
   </component>
@@ -57,11 +63,69 @@
     <option name="height" value="1413" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WeatherDataJavaApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeatherDataJavaApi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WeatherDataJavaApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeatherDataJavaApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WeatherDataJavaApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeatherDataJavaApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="antonydamico" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WeatherDataJavaApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeatherDataJavaApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="antonydamico" type="462c0819:PsiDirectoryNode" />
+              <item name="weather" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Documents\Development\java\SE\DesignPatterns\Observer\WeatherDataJavaApi\src\com\antonydamico" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,13 +134,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547175938383</updated>
-      <workItem from="1547175963720" duration="183000" />
+      <workItem from="1547175963720" duration="945000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="945000" />
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -106,5 +172,27 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/antonydamico/display/DisplayElement.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/antonydamico/WeatherStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/antonydamico/weather/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

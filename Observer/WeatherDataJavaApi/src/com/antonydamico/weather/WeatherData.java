@@ -1,12 +1,12 @@
 package com.antonydamico.weather;
 
-import com.antonydamico.observerpattern.Observer;
-import com.antonydamico.observerpattern.Subject;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Observable;
+import java.util.Observer;
 
-public class WeatherData implements Subject {
+public class WeatherData extends Observable {
 
     private List<Observer> observers;
     private float temperature;
